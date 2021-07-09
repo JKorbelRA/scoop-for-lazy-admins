@@ -6,5 +6,5 @@ Scoop bucket for lazy admins.
 Add it like this:
 
 ```ps
-scoop bucket add for-lazy-admins https://github.com/JKorbelRA/scoop-for-lazy-admins.git
+scoop bucket add for-lazy-admins https://github.com/JKorbelRA/scoop-for-lazy-admins.git main
 ```
