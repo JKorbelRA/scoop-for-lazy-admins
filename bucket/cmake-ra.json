@@ -7,7 +7,7 @@
         "64bit": {
             "url": "https://github.com/JKorbelRA/CMake/releases/download/v3.25.0_rc3_ra/cmake-3.25.0_rc3_ra-windows-x64.zip",
             "hash": "ac9836be8624d29479f9a481b390fc093c2619d7a9bcf13c898f7e359cea3fd9",
-            "extract_dir": "cmake-3.25.0_rc3_ra-windows-x86_64"
+            "extract_dir": "cmake-3.25.0_rc3_ra-windows-x64"
         }
     },
     "bin": [
