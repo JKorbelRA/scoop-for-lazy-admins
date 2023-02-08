@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/JKorbelRA/CMake/releases/download/v3.25.0_rc3_ra_patch2/cmake-3.25.0_rc3_ra_patch2-windows-x64.zip",
-            "hash": "d1698138651bee48efffbcfd2a2cae57fd568ab659931c24563657370cbcc307",
+            "hash": "70bfcf496bbea82b410c58eeecef0dbd700840d7202b1248a38922ed6149e00d",
             "extract_dir": "cmake-3.25.20221108-g2a79034-dirty-win64-x64"
         }
     },
